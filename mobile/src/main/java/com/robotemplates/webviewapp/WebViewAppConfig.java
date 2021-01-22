@@ -51,7 +51,7 @@ public class WebViewAppConfig {
 
 	// custom user agent string for the webview,
 	// leave this constant empty if you do not want to set custom user agent string
-	public static final String WEBVIEW_USER_AGENT = "Mozilla/5.0 Google";
+	public static final String WEBVIEW_USER_AGENT = "Mozilla/5.0 (Linux; U; Android 2.2.1; en-us; Nexus One Build/FRG83) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1";
 
 	// frequency of showing AdMob interstitial ad,
 	// ad will be shown after each x url loadings or clicks on navigation drawer menu
